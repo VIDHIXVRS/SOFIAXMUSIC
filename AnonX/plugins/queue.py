@@ -96,7 +96,7 @@ async def ping_com(client, message: Message, _):
 
 📌**ᴛɪᴛʟᴇ:** {title}
 
-🍒**ᴛʏᴩᴇ:** {typo}
+✨**ᴛʏᴩᴇ:** {typo}
 💖**ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {user}
 {send}"""
     upl = (
@@ -276,7 +276,7 @@ async def queue_back(client, CallbackQuery: CallbackQuery, _):
 
 📌 **ᴛɪᴛʟᴇ:** {title}
 
-🍒 **ᴛʏᴩᴇ:** {typo}
+✨ **ᴛʏᴩᴇ:** {typo}
 💖 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {user}
 {send}"""
     upl = (
