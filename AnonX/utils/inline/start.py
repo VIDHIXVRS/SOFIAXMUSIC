@@ -2,7 +2,7 @@ from typing import Union
 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-import Anonx.config
+import config
 from AnonX import app
 
 
